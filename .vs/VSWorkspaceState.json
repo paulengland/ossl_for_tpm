@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\lib",
+    "\\lib\\Debug"
   ],
-  "SelectedNode": "\\ossl",
   "PreviewInSolutionExplorer": false
 }
